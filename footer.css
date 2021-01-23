@@ -1,0 +1,63 @@
+.footer{
+    background-color: #cccccc;
+    margin-top: 500px;
+}
+.top_box{
+    height: 112px;
+    border-bottom: 1px solid  #6d6d6d;
+}
+.top_box li{
+    float: left;
+    margin-top: 38px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.top_box .foot_bg {
+    height: 52px;
+    width: 56px;
+    background: url("img/icons.png") no-repeat -253px -1px ;
+    display: block;
+    float: left;
+}
+.top_box .one{
+    background: url("img/icons.png") no-repeat -254px -54px ;
+}
+.top_box .two{
+    background: url("img/icons.png") no-repeat -256px -104px ;
+}
+.top_box .three{
+    background: url("img/icons.png") no-repeat -254px -156px ;
+}
+.top_box .four{
+    background: url("img/icons.png") no-repeat -254px -209px ;
+}
+.z_box{
+    height: 169px;
+    border-bottom: 1px solid  #6d6d6d;
+}
+.z_box dl{
+    float: left;
+    margin-right: 130px;
+    margin-top: 21px;
+}
+.z_box dt{
+    font-weight: 700;
+    font-size: 17px;
+}
+.z_box dl:first-child{
+    margin-left: 50px;
+}
+.z_box dl:last-child{
+    margin-right: 0px;
+    text-align: center;
+}
+.bot_box{
+    height: 81px;
+    text-align: center;
+    line-height: 40px;
+
+}
+.bot_box a{
+    margin-right: 6px;
+}
