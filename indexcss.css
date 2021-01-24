@@ -1,0 +1,36 @@
+.bg{
+    height: 470px;
+    width: 100%;
+    background: url(uploads/jd_bg.png) no-repeat center top;
+    position: absolute;
+}
+.zhuti{
+    position: relative;
+}
+.tleft_zhu{
+    margin-left: 5px;
+    margin-top: px;
+    height: 470px;
+    
+}
+.tright_zhu{
+    width: 251px;
+    height: 470px;
+    margin-left: 940px;
+    border: 1px solid #cccccc;
+    margin-top: 10px;
+}
+.tright_zhu .top_list{
+    height: 30px;
+    width: 240px;
+    margin-top: 7px;
+    margin-left: 10px;
+    border-bottom: 1px dashed #cccccc;
+}
+.tright_zhu .top_list a{
+    margin-right: 10px;
+}
+.zright_list{
+    line-height: 27px;
+    margin-left: 17px;
+}
